@@ -15,7 +15,7 @@ This GitHub profile is where I document personal projects, academic work, experi
 - Operating Systems
 - AI & Machine Learning
 
-## Linguagens e Tecnologias em Estudo
+## Languages and Technologies
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
