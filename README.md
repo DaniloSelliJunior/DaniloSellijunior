@@ -1,19 +1,19 @@
-# Olá! Eu sou Danilo 👋
+# Hi! I'm Danilo 👋
 
-Estudante de Ciência da Computação na UFSCar e ex-estudante de Engenharia Elétrica na USP São Carlos (EESC-USP).
+Computer Science student at UFSCar and former Electrical Engineering student at USP São Carlos (EESC-USP).
 
-Durante minha passagem pela USP, fui membro da equipe EESC USP Formula SAE, onde ocupei os cargos de chefe do subsistema de eletrônica e gerente de análise de dados, atuando com sistemas embarcados, telemetria, aquisição e análise de dados, além do estudo de KPIs relacionados ao desempenho do carro e dos pilotos.
+During my time at USP, I was a member of the **EESC USP Formula SAE** team, serving as Head of Electronics and Data Acquisition Manager. I worked with embedded systems, telemetry, data acquisition, and data analysis, as well as evaluating KPIs related to vehicle and driver performance.
 
-Dentro da Formula SAE e da Engenharia Elétrica, desenvolvi um forte interesse por software e computação, o que me levou à transição para o curso de Ciência da Computação, área na qual hoje me sinto mais realizado e motivado.
+Through Formula SAE and Electrical Engineering, I developed a strong passion for software and computing, leading me to transition into Computer Science—a field where I feel deeply motivated and fulfilled. Currently, I am a member of the **Formula Route UFSCar** team, working on software development and data analysis.
 
-Este GitHub é onde documento projetos pessoais, trabalhos acadêmicos, experimentos e estudos relacionados à ciência da computação, sistemas, estruturas de dados e outras áreas de interesse.
+This GitHub profile is where I document personal projects, academic work, experiments, and studies related to computer science, systems, data structures, and other topics I am exploring.
 
-## Áreas de Interesse
+## Areas of Interest
 - Software Engineering
-- Sistemas Embarcados
-- Estruturas de Dados
-- Sistemas Operacionais
-- IA e Machine Learning
+- Embedded Systems
+- Data Structures
+- Operating Systems
+- AI & Machine Learning
 
 ## Linguagens e Tecnologias em Estudo
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
