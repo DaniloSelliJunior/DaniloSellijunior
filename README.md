@@ -1,40 +1,49 @@
-# Hi! I'm Danilo 👋
+# Hi, I'm Danilo 👋
 
-Computer Science student at UFSCar and former Electrical Engineering student at USP São Carlos (EESC-USP).
+Computer Science student at **UFSCar** (expected 2028), with a previous path in Electrical Engineering at **EESC-USP**. I like turning raw technical data into something people can analyze and act on.
 
-During my time at USP, I was a member of the **EESC USP Formula SAE** team, serving as Head of Electronics and Data Acquisition Manager. I worked with embedded systems, telemetry, data acquisition, and data analysis, as well as evaluating KPIs related to vehicle and driver performance.
+## What I do
 
-Through Formula SAE and Electrical Engineering, I developed a strong passion for software and computing, leading me to transition into Computer Science—a field where I feel deeply motivated and fulfilled. Currently, I am a member of the **Formula Route UFSCar** team, working on software development and data analysis.
+- **Telemetry and data acquisition:** led the electronics and data acquisition subsystem at **EESC-USP Formula SAE**, and analyzed KPIs of vehicle and driver performance from track data.
+- **Software for the car:** at **Fórmula Route UFSCar**, I work on telemetry software and vehicle dynamics data analysis.
+- **Community and leadership:** Director of Content at **SECOMP UFSCar** (Computing Week).
 
-This GitHub profile is where I document personal projects, academic work, experiments, and studies related to computer science, systems, data structures, and other topics I am exploring.
+## Featured project
 
-## Areas of Interest
-- Software Engineering
-- Embedded Systems
-- Data Structures
-- Operating Systems
-- AI & Machine Learning
+### [Route Telemetry Converter](https://github.com/DaniloSelliJunior/Route-Telemetry-Converter)
+A desktop app that converts binary logs from our ESP32 datalogger into **MoTeC i2 (.ld)** and **CSV** files.
 
-## Languages and Technologies
+- Robust parser (fixed-rate resampling, timestamp rollover, resync after corrupted data) and a log quality report
+- Derived channels and a KPI engine, with session comparison and HTML/PDF reports
+- Automated tests with **pytest** and CI on **GitHub Actions**
+- **Next:** storing session history in **SQLite** and a separate tool that generates reports from KPI data
+
+Built with the help of AI assistants for code, tests and documentation, reviewed and tested by me.
+
+## Data toolkit
+
+- **Data analysis with Python:** NumPy, pandas, Matplotlib
+- **SQL (SQLite)** and data modeling, currently deepening
+- **Power BI** for dashboards and reports
+
+## Tech
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
 
+## Areas of interest
 
-<!--
-**DaniloSelliJunior/DaniloSellijunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data engineering and analysis · Embedded systems · Software engineering · Operating systems · AI applied to data
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](http://www.linkedin.com/in/danilo-selli-1006aa38b) · djovanosellijr@gmail.com
