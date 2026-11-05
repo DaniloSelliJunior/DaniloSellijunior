@@ -25,9 +25,6 @@ Built with the help of AI assistants for code, tests and documentation, reviewed
 
 **PostgreSQL** database for warehouse addressing and stock control, with FIFO output and expiry date handling (academic project).
 
-### [Projeto-Filtro-de-Bloom](https://github.com/DaniloSelliJunior/Projeto-Filtro-de-Bloom)
-
-**C++** system for large-scale malware detection: a Bloom filter with double hashing works as a hybrid screening step in front of a linked list, speeding up lookups.
 
 ## Currently learning
 
